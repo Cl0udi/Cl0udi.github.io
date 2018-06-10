@@ -1,8 +1,8 @@
 body{
   background: url(../img/computer_background.jpg) no-repeat center center fixed; 
-  -webkit-background-size: 1500px;
-  -moz-background-size: 1500px;
-  -o-background-size: 1500px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   background-size: cover;
   font-family: 'Noto Sans', sans-serif;
 }
