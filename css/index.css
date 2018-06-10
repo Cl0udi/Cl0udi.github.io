@@ -3,7 +3,7 @@ body{
   -webkit-background-size: 1500px;
   -moz-background-size: 1500px;
   -o-background-size: 1500px;
-  background-size: 1500px;
+  background-size: cover;
   font-family: 'Noto Sans', sans-serif;
 }
 
