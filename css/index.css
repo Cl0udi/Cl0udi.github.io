@@ -1,5 +1,9 @@
 body{
-  background: url(../img/computer_background.jpg) no-repeat center center fixed; 
+  background: /* top, transparent red */
+    linear-gradient(
+      rgba(50, 50, 50, 0.4), 
+      rgba(50, 50, 50, 0.4)
+    ),url(../img/computer_background.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -23,7 +27,6 @@ h2{
 .bio{
 	color : white;
 	font-size: 15px;
-	background-color: rgba(100, 100, 100, 0.7);
 }
 
 .me {
